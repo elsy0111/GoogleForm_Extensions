@@ -1,9 +1,12 @@
 // ==UserScript==
-// @name         Google Forms More
+// @name         Google Form More
+// @version      1.0.0
 // @namespace    https://github.com/elsy0111/GoogleForm_Extensions
-// @version      1.0
-// @description  Google Forms More
+// @description  Google Form More Width
 // @author       Arcsecond
+// @updateURL    https://github.com/elsy0111/GoogleForm_Extensions/raw/master/src/google_form_more.user.js
+// @downloadURL  https://github.com/elsy0111/GoogleForm_Extensions/raw/master/src/google_form_more.user.js
+// @supportURL   https://github.com/elsy0111/GoogleForm_Extensions
 // @match        ://docs.google.com/forms/
 // @grant        none
 // ==/UserScript==
